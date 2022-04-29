@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "hello world"
+
+printf "hello world/n"
+
+DDAY=""15-Aug-2007"
+
+echo "$DDAY"
+
+15-AUG-2007
